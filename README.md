@@ -35,7 +35,6 @@ Nosso curso é baseado nas tecnologias mais modernas e poderosas:
             <li><strong>SOLID:</strong>  Você aprenderá os conceitos de SOLID na prática com nosso desenvolvimento</li>
             <li><strong>Clean Code:</strong>  Iremos trabalhar em um código limpo e organizado</li>
             <li><strong>Clean architecture:</strong> Iremos trabalhar com algumas camadas da arquitetura limpa.</li>
-            
         </ul>
 </p>
 
